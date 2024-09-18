@@ -1,5 +1,7 @@
 # 🎬 Movie Recommendation System with MovieLens Dataset
-
+---
+![47a98dbfccf5b666c95f24dc9e4aaf76](https://github.com/user-attachments/assets/3ed7654d-444b-4a6b-8c98-2205a6d6f2e3)
+---
 
 ## Table of Contents
 
