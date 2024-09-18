@@ -9,6 +9,7 @@
 -   [Technologies Used](#technologies-used)
 -   [Description](#description)
 -   [Objectives](#objectives)
+-   [Presentation](#presentation)
 -   [Notebooks Overview](#notebooks-overview)
 -   [Installation](#installation)
 -   [Usage](#usage)
@@ -34,6 +35,12 @@ The main objective of this project is to develop and evaluate different recommen
 2. **Exploratory Data Analysis (EDA)**: Understanding the dataset and its underlying patterns.
 3. **Modeling**: Implementing various models like Pearson correlation, SVD, and LightFM for recommendations.
 4. **Evaluation**: Assessing the performance of the models to identify the most effective approach.
+
+---
+
+## Presentation
+
+A **presentation** is available as a **PDF** file in the repo ```Movie_Recommendation_System_Presentation.pdf``` & also as a **Canva/Powerpoint** presentation through the following link: [Presentation Link](https://www.canva.com/design/DAGPvK0-A2g/1DJtvrzpoxdP5VG_GcgkhA/view?utm_content=DAGPvK0-A2g&utm_campaign=designshare&utm_medium=link&utm_source=editor).
 
 ---
 
