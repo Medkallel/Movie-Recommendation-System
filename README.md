@@ -110,6 +110,7 @@ pip install -r requirements.txt
 ├── 📄requirements.txt
 ├── 📄README.md
 ├── 📄Project-Documentation_Movie_Recommendation_System_Kallel_Rigoni_Rodner.pdf
+├── 📄Movie_Recommendation_System_Presentation.pdf
 └── 📄.gitignore
 ```
 ---
